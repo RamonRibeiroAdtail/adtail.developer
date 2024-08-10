@@ -29,15 +29,14 @@ Estamos em busca de Pessoas Desenvolvedoras `Front-end`, com sólidos conhecimen
 
 ## Como se candidatar a vaga
 
-- [Faça download ou clone do projeto;](https://github.com/RamonRibeiroAdtail/adtail.developer)
+- Faça download ou clone desse projeto;
 - Codifique o layout seguindo as instruções abaixo;
 - Envie o código em zip (sem a pasta node_modules) para [ramon.ribeiro@adtail.ag](mailto:ramon.ribeiro@adtail.ag?subject=Vaga%20DEV%20-%20Adtail) com cópia para marcos.moraes@adtail.ag
 
-**obs.**: link do projeto [github.com/RamonRibeiroAdtail/adtail.developer](https://github.com/RamonRibeiroAdtail/adtail.developer)
-
 ### Instruções para o teste
 
-O layout se encontra no [figma](https://www.figma.com/design/sDFYa0pAeJQ5NcjwU4Ehby/Desafio-Adtail?node-id=0-1&t=t9TuZVyjcblyiLA8-0).
+- O layout se encontra no [figma](https://www.figma.com/design/sDFYa0pAeJQ5NcjwU4Ehby/Desafio-Adtail?node-id=0-1&t=t9TuZVyjcblyiLA8-0);
+- Esse projeto utiliza um setup com [nextjs](https://nextjs.org/), mas o conhecimento desse framework não é obrigatório, apenas tenha ciência que a estrutura /pages/api/products, cria um endpoint localizado em http://localhost:3000/api/products, e o arquivo products.ts deve ser alterado para contemplar a lógica de filtros.
 
 ### Dependências
 
@@ -51,7 +50,7 @@ Uma vez que o comando é dado, o projeto estará rodando em http://localhost:300
 
 ### Objetivo
 
-O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front end, você pode escolher entre tailwind, sass ou css para estilizar.
+O objetivo desse desafio é avaliar os seus conhecimentos fundamentais de front end, você pode escolher entre tailwind, sass ou css para estilizar.
 
 ### Obrigatório
 

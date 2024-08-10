@@ -51,7 +51,7 @@ Uma vez que o comando é dado, o projeto estará rodando em http://localhost:300
 
 ### Objetivo
 
-O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front end,
+O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front end, você pode escolher entre tailwind, sass ou css para estilizar.
 
 ### Obrigatório
 

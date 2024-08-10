@@ -1,40 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Venha ser um desenvolvedor da Adtail
 
-## Getting Started
+Olá! Somos a Adtail, uma empresa inovadora que se destaca no mercado de marketing digital e performance. Especializamo-nos em oferecer soluções completas em estratégia de marketing, tecnologia avançada, dados analíticos e otimização de campanhas. Nosso foco está no crescimento e na maximização dos resultados para nossos clientes.
 
-First, run the development server:
+Este desafio é voltado para o nosso Centro de Excelência (COE) de Commerce, especializado em implantação, migração, evolução e otimização de e-commerce.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Estamos em busca de Pessoas Desenvolvedoras `Front-end`, com sólidos conhecimentos em HTML, CSS e TS para projetar interfaces e entregar a melhor experiência para os consumidores visando sempre a otimização do código e agilidade no desenvolvimento.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## O que procuramos
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Requisitos Obrigatórios
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- Html5, css3;
+- Javascript/Typescript;
+- Consumo de APIs.
+- Versionamento Git;
+- Sass;
+- Sites responsivos;
+- Iniciativa, criatividade e colaboração;
+- Boas práticas: reutilização de código, semântica, organização, padronização e performance.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Desejáveis:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Experiência com algum CMS
+- Conhecimento/Experiência em Vtex
+- Nodejs
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Como se candidatar a vaga
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Faça download ou clone do projeto;](https://github.com/RamonRibeiroAdtail/adtail.developer)
+- Codifique o layout seguindo as instruções abaixo;
+- Envie o código em zip (sem a pasta node_modules) para [ramon.ribeiro@adtail.ag](mailto:ramon.ribeiro@adtail.ag?subject=Vaga%20DEV%20-%20Adtail) com cópia para marcos.moraes@adtail.ag
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**obs.**: link do projeto [github.com/RamonRibeiroAdtail/adtail.developer](https://github.com/RamonRibeiroAdtail/adtail.developer)
 
-## Deploy on Vercel
+### Instruções para o teste
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O layout se encontra no [figma](https://www.figma.com/design/sDFYa0pAeJQ5NcjwU4Ehby/Desafio-Adtail?node-id=0-1&t=t9TuZVyjcblyiLA8-0).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Dependências
+
+O projeto possui um setup pronto no qual há a necessidade de possuir o nodejs instalado na versão 18 ou superior (18.17.1 recomendado).
+
+Para instalar as dependências só é preciso executar o comando: `npm install`
+
+O dar start no server e nos processos para desenvolvimento é necessário rodar o comando: `npm run dev`
+
+Uma vez que o comando é dado, o projeto estará rodando em http://localhost:3000
+
+### Objetivo
+
+O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front end,
+
+### Obrigatório
+
+- Typescript;
+- Requisição a API para obter os produtos;
+- Funcionalidade: Filtrar produtos por cor, tamanho e preço;
+- Funcionalidade: Adicionar produto ao carrinho;
+- Não utilizar Bootstrap, Foundation Css, Semantic ui ou semelhantes;
+- Responsividade;
+- Boas práticas como reutilização de código, semântica, organização, padronização.
+
+##### Dúvidas: [ramon.ribeiro@adtail.ag](mailto:ramon.ribeiro@adtail.ag?subject=Dúvida%20Vaga%20DEV%20-%Adtail)
